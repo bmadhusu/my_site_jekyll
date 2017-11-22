@@ -4,7 +4,7 @@ animation: "bounceOut"
 
 # Images
 
-logo: "logo.svg"
+logo: "my_logo.svg"
 hero: "hero-bg.jpg"
 avatar: "travitar.jpg"
 comingsoon: "ComingSoon.jpg"

@@ -2,9 +2,16 @@ footer
   @extend %background-image
   background-image: url(../img/#{$logo-path}), url(../img/#{$hero-path})
 
+ 
+
   .lockup
     padding: 50px 30px
     +clearfix
+
+    .logo
+      +size(50px)
+      float: left
+      margin-right: 30px
 
     .content-wrap
       float: left
